@@ -16,8 +16,7 @@ a{
 }
 
 header{
-  display: flex;
-  justify-content: center;
+  text-align: center;
   padding-bottom: 20px;
   background-color: rgb(244, 79, 79)
 }
@@ -32,7 +31,7 @@ main{
 
 #parent{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .contents{
